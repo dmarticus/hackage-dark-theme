@@ -1,10 +1,10 @@
 {
     "name": "hackage-dark-theme",
     "displayName": "hackage-dark-theme",
-    "description": "Dark mode color theme that inspired by the source code displayed in hackage",
+    "description": "Dark mode color theme that was inspired by the source code displayed in hackage",
     "publisher": "dmarticus",
     "icon": "img/icon.png",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "bugs": {
       "url": "https://github.com/dmarticus/hackage-dark-theme/issues",
       "email": "dmarticus@gmail.com"
