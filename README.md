@@ -1,6 +1,6 @@
 # Hackage Dark Theme
 
-Dark mode color theme that inspired by the source code displayed in [hackage](https://hackage.haskell.org/), the Haskell documentation site.
+Dark mode color theme that was inspired by the source code displayed in [hackage](https://hackage.haskell.org/), the Haskell documentation site.
 
 ## Installation
 
