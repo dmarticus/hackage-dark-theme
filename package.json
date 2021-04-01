@@ -1,0 +1,32 @@
+{
+    "name": "hackage-dark-theme",
+    "displayName": "hackage-dark-theme",
+    "description": "Dark mode color theme that inspired by the source code displayed in hackage",
+    "publisher": "dmarticus",
+    "icon": "img/icon.png",
+    "version": "0.0.1",
+    "bugs": {
+      "url": "https://github.com/dmarticus/hackage-dark-theme/issues",
+      "email": "dmarticus@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dmarticus/hackage-theme"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hackage-dark-theme",
+                "uiTheme": "vs",
+                "path": "./themes/hackage-theme-dark-color-theme.json"
+            }
+        ]
+    }
+}
